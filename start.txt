@@ -5,7 +5,8 @@ Let's start collaborating on this document.
 I'm going to start a list.
 
 1. Apple
-2. Oranges
+2. Naranjas
 3. Pears
 
-Now, Amine, you change item 2 on the list and then commit and push.
+~Now, Amine, you change item 2 on the list and then commit and push.~
+Done. Your turn, Andrés.
