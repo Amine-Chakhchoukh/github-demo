@@ -5,9 +5,13 @@ Let's start collaborating on this document.
 I'm going to start a list.
 
 1. Apple
-2. Aguacate
-3. Pears
+2. Les oranges
+3. Aguacate
+4. Pears
 
 ~Now, Amine, you change item 2 on the list and then commit and push.~
 Done. Your turn, Andrés.
 You are about to have a conflict. Put yours as number 2, move mine to number 3 and Pears becomes 4.
+~Done. Your turn, Andrés.~
+OK, sorted!
+
