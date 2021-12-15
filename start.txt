@@ -18,3 +18,6 @@ You are about to have a conflict. Put yours as number 2, move mine to number 3 a
 ~Done. Your turn, Andrés.~
 OK, sorted!
 
+
+And this is the second paragraph. I'm not a 100% sure how to do this, but let's find out!
+
