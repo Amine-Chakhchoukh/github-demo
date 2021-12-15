@@ -2,6 +2,9 @@ Test Git Quick Start demo
 
 Let's start collaborating on this document.
 
+Some text:
+I'm going to write a first paragraph here, then I'll see if I can commit it separately from the rest of the file.
+
 I'm going to start a list.
 
 1. Apple
