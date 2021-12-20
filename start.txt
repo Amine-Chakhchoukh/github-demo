@@ -33,3 +33,8 @@ Forget about vegetables! Let's do a colours' list!
 2. Orange
 3. Green
 
+OK, now we do a list of people:
+
+1. Andrés
+2. Anna
+3. Mila
