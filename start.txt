@@ -2,6 +2,10 @@ Test Git Quick Start demo
 
 Let's start collaborating on this document.
 
+I'm adding some text at the top. I made this in it's own branch. It needs your approval. Once approved - it should be merged into main 
+and this branch should be deleted.
+
+
 Some text:
 I'm going to write a first paragraph here, then I'll see if I can commit it separately from the rest of the file.
 
